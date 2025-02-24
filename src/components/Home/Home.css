@@ -1,0 +1,41 @@
+.home{
+    padding: 10px 30px;
+}
+.home h1{
+    color:aliceblue;
+}
+
+.home hr{
+    color: white;
+    width: 70vw;
+}
+
+.search{
+    height: 40px;
+    width: 90vw;
+    background-color: white;
+    border-style: none;
+    font-size: 20px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.searchContainer{
+    display: flex;
+}
+
+.searchContainer button{
+    margin-left: 10px;
+    width: 100px;
+    padding: 10px;
+    background-color: orange;
+    border-style: none;
+    border-radius: 10px;
+    color: black;
+    font-size: 15px;
+}
+
+.copyright{
+    color: white;
+    align-items: start;
+}
